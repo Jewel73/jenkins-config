@@ -1,0 +1,4 @@
+_jenkins.yaml_
+
+jenkins:
+  systemMessage: "Hello, Jewel, How are you!"
